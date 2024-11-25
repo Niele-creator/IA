@@ -19,5 +19,5 @@ https://github.com/Niele-creator/IA/blob/main/GridArt_20241125_154853645.jpg
 https://github.com/Niele-creator/IA/blob/main/file-Sk7kY7xgAXPm7zf1hiMS7e%20(1).webp
 
 ## 💭 Reflexão (Opcional)
-Eu tenho uma experiência informal em criar na IA, então foi fácil. Nessa imagem o ChatGPT se superou e eu realmente fiquei orgulhosa das nossas criações  
+Eu tenho uma experiência informal em criar na IA, então foi fácil. Nessas imagens, o ChatGPT se superou e eu realmente fiquei orgulhosa das nossas criações. 
 
