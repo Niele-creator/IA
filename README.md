@@ -5,13 +5,14 @@
 # Reafirmando a beleza negra através da Inteligência Artificial 🧠 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Olá! A partir dessa oportunidade, decidi aproveitar para celebrar 🍾 o primeiro feriado federal do dia da Consciência Negra. Com essa finalidade, demonstrar o quanto nós, mulheres afrodescendentes somos belas e únicas foi a única coisa que veio aos meus pensamentos. Se deleite com a beleza feminina e em seus tons mais amarronzados. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Usei o ChatGPT para criação das imagens. 
+Usei o aplicativo Colagem de fotos - GridArt para algumas alterações sutis. 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Processo simples: digitei o prompt no ChatGPT, gerei a primeira imagem, depois coloquei outro prompt, gerei a segunda foto e, por fim, uni uma como fundo da outra no aplicativo de colagem GridArt.
 
 ## 🚀 Resultados
 
