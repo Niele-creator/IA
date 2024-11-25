@@ -16,7 +16,7 @@ Processo simples: digitei o prompt no ChatGPT, gerei a primeira imagem, depois c
 
 ## 🚀 Resultados
 GridArt_20241125_154853645.jpg
-
+arquivo-Sk7kY7xgAXPm7zf1hiMS7e (1).webp
 
 ## 💭 Reflexão (Opcional)
 Eu tenho uma experiência informal em criar na IA, então foi fácil. Nessa imagem o ChatGPT se superou e eu realmente fiquei orgulhosa das nossas criações  
