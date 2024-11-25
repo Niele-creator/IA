@@ -15,6 +15,7 @@ Usei o aplicativo Colagem de fotos - GridArt para algumas alterações sutis.
 Processo simples: digitei o prompt no ChatGPT, gerei a primeira imagem, depois coloquei outro prompt, gerei a segunda foto e, por fim, uni uma como fundo da outra no aplicativo de colagem GridArt.
 
 ## 🚀 Resultados
+GridArt_20241125_154853645.jpg
 
 
 ## 💭 Reflexão (Opcional)
